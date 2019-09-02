@@ -1,0 +1,31 @@
+{
+  "transactionCaptureInitiateActionRecord" : {},
+  "transactionCaptureInitiateActionReference" : "TCIAR742275",
+  "cardTransactionSwitchOperatingSessionInstanceRecord" : {
+    "participantAcquirerBankReference" : "718054",
+    "participantAcquirerBanktransactionRoutingDetails" : "participantAcquirerBanktransactionRoutingDetails",
+    "participantIssuerBankReference" : "715661",
+    "networkReference" : "793750",
+    "participantIssuerBankTransactionRoutingDetails" : "participantIssuerBankTransactionRoutingDetails"
+  },
+  "transactionCaptureInstanceStatus" : "transactionCaptureInstanceStatus",
+  "transactionCaptureInstanceReference" : "TCIR722700",
+  "transactionCaptureInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "701186",
+    "cardTransactionMerchantReference" : "733911",
+    "cardTransactionInterchargeFee" : "USD 250",
+    "cardTransactionIssuingBankReference" : "798697",
+    "cardTransactionType" : "cardTransactionType",
+    "cardTransactionMerchantAcquiringBankReference" : "764865",
+    "cardTransactionLocationReference" : "724004",
+    "cardTransactionCurrency" : "USD",
+    "cardTransactionAmountType" : "cardTransactionAmountType",
+    "cardTransactionFXConversionCharge" : "USD 250",
+    "cardTransactionNetworkReference" : "705497",
+    "cardTransactionProductServiceReference" : "779386",
+    "cardTransactionDateTime" : "09-22-2018",
+    "cardTransactionRecordReference" : "741619",
+    "cardTransactionAmount" : "USD 250",
+    "cardTransactionAuthorizationRecord" : {}
+  }
+}

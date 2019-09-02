@@ -1,0 +1,32 @@
+{
+  "transactionRoutingInitiateActionReference" : "TRIAR788848",
+  "transactionRoutingInstanceRecord" : {},
+  "cardTransactionSwitchOperatingSessionInstanceRecord" : {
+    "participantAcquirerBankReference" : "777895",
+    "participantAcquirerBanktransactionRoutingDetails" : "participantAcquirerBanktransactionRoutingDetails",
+    "participantIssuerBankReference" : "735907",
+    "networkReference" : "720048",
+    "participantIssuerBankTransactionRoutingDetails" : "participantIssuerBankTransactionRoutingDetails"
+  },
+  "transactionRoutingInstanceReference" : "TRIR708621",
+  "transactionRoutingInstanceStatus" : "transactionRoutingInstanceStatus",
+  "transactionCaptureInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "741402",
+    "cardTransactionMerchantReference" : "704942",
+    "cardTransactionInterchargeFee" : "USD 250",
+    "cardTransactionIssuingBankReference" : "795306",
+    "cardTransactionType" : "cardTransactionType",
+    "cardTransactionMerchantAcquiringBankReference" : "749829",
+    "cardTransactionLocationReference" : "760932",
+    "cardTransactionCurrency" : "USD",
+    "cardTransactionAmountType" : "cardTransactionAmountType",
+    "cardTransactionFXConversionCharge" : "USD 250",
+    "cardTransactionNetworkReference" : "792349",
+    "cardTransactionProductServiceReference" : "783229",
+    "cardTransactionDateTime" : "09-22-2018",
+    "cardTransactionRecordReference" : "709847",
+    "cardTransactionAmount" : "USD 250",
+    "cardTransactionAuthorizationRecord" : {}
+  },
+  "transactionRoutingInitiateActionRecord" : {}
+}

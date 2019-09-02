@@ -1,0 +1,13 @@
+{
+  "cardTransactionSwitchOperatingSessionInstanceStatus" : "cardTransactionSwitchOperatingSessionInstanceStatus",
+  "cardTransactionSwitchOperatingSessionInstanceRecord" : {
+    "participantAcquirerBankReference" : "751627",
+    "participantAcquirerBanktransactionRoutingDetails" : "participantAcquirerBanktransactionRoutingDetails",
+    "participantIssuerBankReference" : "780102",
+    "networkReference" : "758313",
+    "participantIssuerBankTransactionRoutingDetails" : "participantIssuerBankTransactionRoutingDetails"
+  },
+  "cardTransactionSwitchOperatingSessionInitiateActionRecord" : {},
+  "cardTransactionSwitchOperatingSessionInstanceReference" : "CTSOSIR753097",
+  "cardTransactionSwitchOperatingSessionInitiateActionReference" : "CTSOSIAR786478"
+}

@@ -1,0 +1,43 @@
+{
+  "transactionRoutingInstanceAnalysis" : {
+    "transactionRoutingInstanceAnalysisParameters" : "transactionRoutingInstanceAnalysisParameters",
+    "transactionRoutingInstanceAnalysisReport" : {},
+    "transactionRoutingInstanceAnalysisReportType" : "transactionRoutingInstanceAnalysisReportType",
+    "transactionRoutingInstanceAnalysisRecord" : {}
+  },
+  "transactionRoutingInstanceReport" : {
+    "transactionRoutingInstanceReportParameters" : "transactionRoutingInstanceReportParameters",
+    "transactionRoutingInstanceReport" : {},
+    "transactionRoutingInstanceReportRecord" : {},
+    "transactionRoutingInstanceReportType" : "transactionRoutingInstanceReportType"
+  },
+  "transactionRoutingInstanceRecord" : {},
+  "transactionRoutingRetrieveActionResponse" : "transactionRoutingRetrieveActionResponse",
+  "cardTransactionSwitchOperatingSessionInstanceRecord" : {
+    "participantAcquirerBankReference" : "761481",
+    "participantAcquirerBanktransactionRoutingDetails" : "participantAcquirerBanktransactionRoutingDetails",
+    "participantIssuerBankReference" : "742251",
+    "networkReference" : "780061",
+    "participantIssuerBankTransactionRoutingDetails" : "participantIssuerBankTransactionRoutingDetails"
+  },
+  "transactionRoutingRetrieveActionTaskReference" : "TRRATR771256",
+  "transactionRoutingRetrieveActionTaskRecord" : {},
+  "transactionCaptureInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "773497",
+    "cardTransactionMerchantReference" : "781424",
+    "cardTransactionInterchargeFee" : "USD 250",
+    "cardTransactionIssuingBankReference" : "799464",
+    "cardTransactionType" : "cardTransactionType",
+    "cardTransactionMerchantAcquiringBankReference" : "792140",
+    "cardTransactionLocationReference" : "716596",
+    "cardTransactionCurrency" : "USD",
+    "cardTransactionAmountType" : "cardTransactionAmountType",
+    "cardTransactionFXConversionCharge" : "USD 250",
+    "cardTransactionNetworkReference" : "748312",
+    "cardTransactionProductServiceReference" : "751705",
+    "cardTransactionDateTime" : "09-22-2018",
+    "cardTransactionRecordReference" : "739610",
+    "cardTransactionAmount" : "USD 250",
+    "cardTransactionAuthorizationRecord" : {}
+  }
+}

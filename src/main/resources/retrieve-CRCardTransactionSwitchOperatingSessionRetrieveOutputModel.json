@@ -1,0 +1,22 @@
+{
+  "cardTransactionSwitchOperatingSessionRetrieveActionTaskReference" : "CTSOSRATR707929",
+  "cardTransactionSwitchOperatingSessionInstanceReportRecord" : {
+    "cardTransactionSwitchOperatingSessionInstanceReportType" : "cardTransactionSwitchOperatingSessionInstanceReportType",
+    "cardTransactionSwitchOperatingSessionInstanceReportData" : "cardTransactionSwitchOperatingSessionInstanceReportData",
+    "cardTransactionSwitchOperatingSessionInstanceReport" : {}
+  },
+  "cardTransactionSwitchOperatingSessionRetrieveActionTaskRecord" : {},
+  "cardTransactionSwitchOperatingSessionInstanceAnalysis" : {
+    "cardTransactionSwitchOperatingSessionInstanceAnalysisData" : "cardTransactionSwitchOperatingSessionInstanceAnalysisData",
+    "cardTransactionSwitchOperatingSessionInstanceAnalysisReport" : {},
+    "cardTransactionSwitchOperatingSessionInstanceAnalysisReportType" : "cardTransactionSwitchOperatingSessionInstanceAnalysisReportType"
+  },
+  "cardTransactionSwitchOperatingSessionInstanceRecord" : {
+    "participantAcquirerBankReference" : "706801",
+    "participantAcquirerBanktransactionRoutingDetails" : "participantAcquirerBanktransactionRoutingDetails",
+    "participantIssuerBankReference" : "781389",
+    "networkReference" : "776584",
+    "participantIssuerBankTransactionRoutingDetails" : "participantIssuerBankTransactionRoutingDetails"
+  },
+  "cardTransactionSwitchOperatingSessionRetrieveActionResponse" : "cardTransactionSwitchOperatingSessionRetrieveActionResponse"
+}

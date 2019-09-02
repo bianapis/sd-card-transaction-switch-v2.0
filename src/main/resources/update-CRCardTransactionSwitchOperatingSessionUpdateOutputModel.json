@@ -1,0 +1,12 @@
+{
+  "cardTransactionSwitchOperatingSessionInstanceRecord" : {
+    "participantAcquirerBankReference" : "756760",
+    "participantAcquirerBanktransactionRoutingDetails" : "participantAcquirerBanktransactionRoutingDetails",
+    "participantIssuerBankReference" : "790192",
+    "networkReference" : "767454",
+    "participantIssuerBankTransactionRoutingDetails" : "participantIssuerBankTransactionRoutingDetails"
+  },
+  "updateResponseRecord" : {},
+  "cardTransactionSwitchOperatingSessionUpdateActionTaskRecord" : {},
+  "cardTransactionSwitchOperatingSessionUpdateActionTaskReference" : "CTSOSUATR791622"
+}
